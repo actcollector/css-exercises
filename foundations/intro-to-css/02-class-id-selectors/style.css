@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.light-pink-list-of-fonts {
+  background-color: rgb(255, 182, 193);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue-font-large-size {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+.light-pink-list-of-fonts.light-pink-list-of-fonts-large-size {
+  font-size: 24px;
+}
+
+#light-green-larger-font-bold {
+  background-color: rgb(144, 238, 144);
+  font-size: 24px;
+  font-weight: bold;
+}
